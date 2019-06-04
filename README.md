@@ -14,3 +14,8 @@ One requires access to the internet and a device(computer,smart phone)
 | All three values are similar |4,4,4 | It will be identified as an Equilateral triangle|
 | The values cannot make up a triangle|1,1,20| Program will tell it as not a real triangle|
 | All values are unequal|4,3,6| It is identified as a Scalene triangle|
+# Technologies
+HTML
+CSS
+Bootstrap
+JavaScript
