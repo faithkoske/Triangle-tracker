@@ -6,6 +6,8 @@ This application lets you know a type of triangle after inputting its measuremen
 Faith Koske is a programming student in Moringa School.
 # Setup instructions
 One requires access to the internet and a device(computer,smart phone)
+# Link to live site on github pages
+https://faithkoske.github.io/Triangle-tracker/
 # BDD
 | Behaviour our program should handle | Example |Expected outcome
 | ------------- | ------------- |-----------|
